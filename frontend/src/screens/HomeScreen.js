@@ -15,7 +15,9 @@ const HomeScreen = () => {
     dispatch(listCategories())
   }, [dispatch])
 
-  console.log('anhvu 1')
+  const a = 1 ;
+
+  console.log('anhvu 1 ', a)
 
   return (
     <>
