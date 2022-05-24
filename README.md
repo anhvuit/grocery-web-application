@@ -1,4 +1,6 @@
 # Freshbey
+https://grocery-web-application-heroku.herokuapp.com/
+
 
 ![homepage-freshbey](https://user-images.githubusercontent.com/70762571/167148307-718dabc9-057d-4296-853a-6da097d800d4.png)
 
